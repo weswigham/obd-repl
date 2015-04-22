@@ -1,5 +1,5 @@
 # obd-repl
-A ~~~bluetooth~~~ serial obd repl
+A ~~bluetooth~~ serial obd repl
 
 ## Commands
 * `connect` - connects to the bluetooth obdII device
