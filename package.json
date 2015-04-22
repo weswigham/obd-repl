@@ -1,7 +1,7 @@
 {
   "name": "obd-repl",
   "version": "1.0.0",
-  "description": "Bluetooth OBDII Repl",
+  "description": "Serial OBDII Repl",
   "main": "lib/index.js",
   "bin": {
     "obd-repl": "bin/obdrepl.js"
@@ -13,7 +13,6 @@
   "author": "Wesley Wigham",
   "license": "MIT",
   "dependencies": {
-    "bluetooth-obd": "^0.2.1",
     "promise": "latest",
     "serial-obd": "^0.2.0"
   }
